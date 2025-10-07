@@ -159,9 +159,10 @@ popup.addEventListener('click', e => {
 
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2025-10-07 234457.png>)
 
-![alt text](<Screenshot 2025-10-07 234526.png>)
+![alt text](<Screenshot (34).png>)
+
+![alt text](<Screenshot (35).png>)
 
 
 
